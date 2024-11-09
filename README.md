@@ -13,7 +13,7 @@
 1. 克隆这个仓库：
 
    ```bash
-   git clone https://github.com/longan2244/Lanzou_API
+   git clone https://github.com/longan2244/Lanzou_API.git
    cd Lanzou_API
    ```
 
